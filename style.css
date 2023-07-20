@@ -1,0 +1,143 @@
+/*h1, 
+h2, 
+h3, 
+h4, 
+/*aside,
+li,
+ol,
+ul {font family: ;
+  color: ;}*/
+
+h1,
+h2,
+h3 {color: rgb(66, 79, 79);}
+
+h1 {
+  
+  font-size: 40px;
+  font-family: italic;
+  text-align: center;
+  text-transform: uppercase;
+  font-style: italic;
+}
+
+h2 {
+  text-align: center;
+  font-size: 40px;
+  font-family: italic;
+}
+
+
+h3{
+  font-size:30px;
+  font-family: italic;
+  
+}
+
+h4{
+  font-size: 20px;
+  font-family: sans-serif;
+  text-tranform: uppercase
+  text-align: center;
+}
+
+p{
+  font-size: 22px;
+  font family: italic;
+  line-height: 1.5;
+}
+
+ol{
+  font-size: 20px;
+  font-family: italic;
+}
+
+ul{
+  font-size: 20px;
+  font-family: italic;
+}
+
+li{
+  font-size: 20px;
+  font-family: italic;
+}
+
+
+
+footer{
+  text-align: center;
+  font-size: 18px;
+  border: 5px solid rgba(127, 218, 234, 0.478)
+}
+
+.main-header {
+  background-color: rgba(43, 169, 169, 0.458);
+}
+
+aside {
+  background-color: rgba(43, 169, 169, 0.458);
+}
+
+.contact-details {
+  background-color: rgba(43, 169, 169, 0.458);
+  /*border: 5px solid rgba(127, 218, 234, 0.478)*/
+}
+
+.contact{
+  display:flex;
+  font-size: 20px;
+  line-height: 1.5;
+  font-style: italic;
+  text-align:left;
+  
+}
+
+
+.fcf-form{
+  display:flex;
+  font-size: 30px;
+  line-height: 1.5;
+  font-style: italic;
+  text-align:center;
+  text-indent:20px;
+  
+}
+
+.information{
+  display:flex;
+  font-size: 30px;
+  line-height: 1.5;
+  font-style: italic ;
+  text-align:left;
+  
+  
+}
+
+
+body {
+  background-color: #aec6cf73;
+}
+
+a:link {
+  color: rgb(71, 93, 179);
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(77, 99, 186);
+}
+
+a:hover {
+  color: rgb(58, 140, 159);
+  font-weight: bold;
+  text-decoration: underline rgb(65, 128, 134);
+}
+
+a:active {
+  background-color: rgba(20, 36, 88, 0.474);
+  font-style: italic;
+}
+
+nav a:link{
+  font-size: 22px;
+}
